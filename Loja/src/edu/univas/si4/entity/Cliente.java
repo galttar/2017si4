@@ -1,5 +1,5 @@
 package edu.univas.si4.entity;
-// Generated 03/05/2017 20:00:55 by Hibernate Tools 5.2.1.Final
+// Generated 03/05/2017 20:58:23 by Hibernate Tools 5.2.1.Final
 
 import java.util.HashSet;
 import java.util.Set;
